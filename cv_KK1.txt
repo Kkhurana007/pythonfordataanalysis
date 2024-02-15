@@ -1,0 +1,80 @@
+Kunal Khurana
+Email: Khuranasoilpau@gmail.com
+Website: ilovesoils.com
+LinkedIn: [https://www.linkedin.com/in/khuranasoils/]
+GitHub: [https://github.com/Kkhurana007]
+Google Scholar: [https://scholar.google.com/citations?hl=en&user=wpx6SKUAAAAJ]
+
+Professional Summary
+Detail-oriented researcher with a strong background in statistical analysis, machine learning, and data science. Proficient in Python and modern data analysis tools with over 5 years of experience. M.Sc. in Soil Science. Fluent in English, French, Hindi, and Punjabi.
+
+Skills
+
+Data Science and Machine Learning: Python (NumPy, Pandas, SciPy, Scikit-learn), TensorFlow, PyTorch, machine learning algorithms, deep learning, neural networks, statistical analysis.
+
+Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Altair.
+
+Database: SQL (PostgreSQL, MySQL), NoSQL.
+
+NLP and Language Processing: Natural Language Processing algorithms, Neural Machine Translation (NMT).
+
+Programming: Proficient in Python, software engineering principles, Flask.
+
+Problem Solving: Strong analytical and problem-solving skills.
+
+Communication: Effective communicator, capable of conveying complex technical concepts.
+
+Continuous Learning: Committed to staying updated with the latest advancements in machine learning and related fields.
+
+Professional Experience
+
+Researcher
+McGill University, Montreal, CA
+September 2022 - December 2023
+
+Conducted data analysis and research in the field of soil science, focusing on climate trends and agricultural crop yield prediction.
+Developed predictive models using machine learning techniques.
+Managed and analyzed large datasets using Python and SQL databases.
+Collaborated with a multidisciplinary team to achieve research objectives.
+
+Graduate Research Assistant
+Université Laval, Quebec, CA
+January 2019 - June 2022
+
+Investigated the production of phenolics-rich biochar for controlling greenhouse gas emissions.
+Managed and analyzed wetland datasets for Exploratory Data Analysis using Python.
+Collaborated with a multidisciplinary team to optimize the production process, ensuring scalability and environmental sustainability.
+Utilized advanced statistical techniques to identify key patterns and trends within the wetland datasets, facilitating evidence-based recommendations.
+Contributed to research publications and presentations.
+
+Research Fellow
+Punjab Agricultural University, Ludhiana, IN
+October 2016 - December 2018
+Improved bio-efficacy of zinc in rice-wheat cropping systems to enhance grain quality and health.
+Conducted surveys for observation, sampling, and mapping with ArcGIS.
+Gained expertise in laboratory analysis using an Atomic Adsorption spectrophotometer for plant and elemental soil composition.
+Conducted statistical hypothesis testing using SPSS.
+Prepared and submitted reports and presentations for the project.
+
+Education
+
+Master of Science in Soil Science
+Punjab Agricultural University, Ludhiana, IN
+July 2013- March 2016
+
+Bachelor of Agriculture
+Punjabi University Patiala, Patiala, IN
+August 2009- May 2013
+
+Volunteer Experience
+
+Participant
+Club d’IA, Quebec, CA
+March 2021 - Present
+
+Interests
+
+Triathlon
+Reading
+Traveling
+This functional CV highlights Kunal Khurana's skills, professional experience, education, and interests in a clear and structured format.
